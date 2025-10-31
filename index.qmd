@@ -1,22 +1,18 @@
-# Selamat Berjumpa {.unnumbered}
+# Good Day Mate! {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+![About me](images/myself.jpg){width=100%}
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+> Jika ada sesuatu di ujung, maka saya akan mencarinya. Saya mencari percikan semangat dan sebuah cahaya yang dapat membawa diri saya terus ke arah dan jalan yang saya inginkan.
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+Perkenalkan nama saya Muhammad Rizain Firdaus, sebuah anak yang selalu ingin mencari kesempatan yang ideal bagi dirinya. Saya adalah anak pertama yang lahir di keluarga yang sederhana, tidak kurang dan tidak lebih. Umpamaan ini merupakan umpama yang saya rasa cukup adil untuk mendeskripsikan hidup saya selama 20 tahun ini.
+Saya tumbuh sebagai anak yang cukup unik dalam berpikir dan cenderung berbeda dengan pemikiran orang-orang yang saya kenal. Uniknya saya memang mudah dalam beradaptasi walaupun kadang membutuhkan waktu, hal ini saya refleksikan dari perjalanan sekolah dan pertemanan saya yang saya alami selama lebih dari 12 tahun, 4 kali mengalami pindah sekolah, dan 8 sekolah berbeda dimulai dari
+SD, SMP, SMA, dan sekarang kuliah. 
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
+### Let's learn more about me
 
-Andria, putri saya, lumayan sering membaca blog ini.  Dia juga sumber inspirasi tulisan saya.  Dia senang menceritakan jokes pada saya, dan kalau bagus saya tulis di sini, terutama seri Kocak Ala Andria.  Dan dia suka heran, karena isinya sudah berbeda.  Memang saya senang mengubah-ngubah cerita karena saya tidak suka menjiplak mentah-mentah.  Minggu lalu tidak sengaja dia memuji tulisan blog ini.
-
-
-“Papa… papa… “, tanyanya, “Tulisan blog papa itu copy-paste dari tulisan orang ya…?”
-
-Haa? Ya nggak mungkin lah.  Kecuali lirik lagu, semua artikel di sini ditulis sendiri.
-
-“Ah bohong, soalnya tulisannya terlalu banyak….” katanya tetap tidak percaya, “Nggak mungkinlah papa tulis sendiri…”
-
-Hehe, saya tersenyum sambil membelai Andria, karena buat saya itu adalah ultimate compliment.  Thanks sweetheart…
-
-Jadi kalau orang tidak percaya bahwa sesuatu itu karya anda, anda yang buat, jangan marah.  Itu adalah pujian yang sejati.
+* Untuk mengenal saya lebih lengkap, silakan kunjungi:
+    * **[UTS-1: All About Me](./All_About_me/index.qmd)**
+* Untuk pandangan saya terhadap kehidupan melewati lagu:
+    * **[UTS-3: My Stories for You](./My_Stories_for_You/index.qmd)**
+* Untuk mengenal analisis kepribadian saya:
+    * **[UTS-4: My SHAPE](./My_Shapes/index.qmd)**

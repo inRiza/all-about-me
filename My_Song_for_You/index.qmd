@@ -1,160 +1,167 @@
 # UTS-2 My Songs for You
 
-Post Wedding Kawah Putih
-Lirik by Armein Z. R. Langi
-Music: SUNO
+## Up and Downs
+**Fix You**    
+by ***Coldplay***   
 
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}, with lyrics
+<iframe data-testid="embed-iframe" 
+    style="border-radius:12px" 
+    src="https://open.spotify.com/embed/track/7LVHVU3tWfcxj5aiPFEW4Q?utm_source=generator" 
+    width="100%" 
+    height="352" 
+    frameBorder="0" 
+    allowfullscreen="" 
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+    loading="lazy"
+>
+</iframe>
 
-Engkau
-[Intro]
-[verse1]
-Mereka bilang perlu Ribuan kata 
-untuk menyatakan cinta. 
-Tapi satu-satunya kata yang kutemukan
- adalah: engkau…
+When you try your best, but you don't succeed  
+When you get what you want, but not what you need  
+When you feel so tired, but you can't sleep  
+Stuck in reverse  
+  
+And the tears come streaming down your face  
+When you lose something you can't replace  
+When you love someone, but it goes to waste  
+Could it be worse?  
+  
+Lights will guide you home
+And ignite your bones
+And I will try to fix you
+  
+[...]  
+  
+And high up above or down below  
+When you're too in love to let it go  
+But if you never try, you'll never know  
+Just what you're worth  
+  
+Lights will guide you home  
+And ignite your bones  
+And I will try to fix you  
+  
+[...]
+  
+Tears stream down your face  
+When you lose something you cannot replace  
+Tears stream down your face, and I  
+  
+Tears stream down your face  
+I promise you I will learn from my mistakes  
+Tears stream down your face, and I  
+  
+Lights will guide you home  
+And ignite your bones  
+And I will try to fix you  
+  
+## Artistik
+**Novacane**
+by ***Frank Ocean***   
+  
+<iframe style="border-radius:12px"
+  src="https://open.spotify.com/embed/track/4osgfFTICMkcGbbigdsa53"
+  width="100%" 
+  height="352" 
+  frameborder="0" 
+  loading="lazy"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+</iframe>
 
-[Verse 2]
-Hidup bergerak begitu deras 
-Siang malam datang dan pergi. 
-Mereka bilang semua itu 
-akan melunturkan cinta kita…
-
-
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
-
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
-
-[Verse4]
-Peristiwa menimpa seperti badai tercurah dari langit. 
-Menerjang seperti seretan sungai. 
-Melemparku ke dalam dan ke luar, ke atas dan ke bawah, 
-menghanyutkanku gelagapan ke samudera raya…
-
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
-
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
-
-[Coda 1]
-Sadarkah engkau 
-bahwa engkau telah menemukan 
-hukum baru tentang cinta? 
-
-[Coda 2]
-Bahwa satu tambah satu sama dengan satu
-Satu kali satu adalah tak hingga? 
-Dua kurang satu sama dengan kosong. 
-Segala sesuatu tanpa engkau adalah tiada…?
-
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
-
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
-[Outro]
-
-
-Why am I singing for you? [River on my Mind](./Rivers%20In%20My%20Mind.mp3)
-, with lyrics
-
-River on my mind
-[Verse]
-I do not know what has happened with your life
-I do not know how much you have suffered
-What I know is how to be me
-And I am still learning
-
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-[Verse]
-You deserve a caring heart
-And all of the most beautiful parts of this world
-You deserve a gentle touch
-And a soft place to land when you fall
-
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-[Bridge]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-
-Falling in love everyday [Heaven on Earth](./Heaven%20on%20Earth.mp3), with lyrics
-
-Heaven on Earth
-[Verse]
-The breeze whispers soft to the sea
-A rhythm flows like it’s meant to be
-Every step feels lighter
-Free
-
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-fresh
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-
-[Prechorus]
-Close your eyes
-Let it start
-Feel the world inside your heart
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Bridge]
-Catch the rain as it falls on your face
-Hear the laughter
-It fills every space
-Time is fleeting
-Don’t let it erase
-This heaven we chase
+I think I started somethin'  
+I got what I wanted  
+Did-didn't, I can't feel nothin', superhuman  
+Even when I'm f*ckin', Viagra poppin'  
+Every single record, autotunin'  
+Zero emotion, muted emotion  
+Pitch-corrected, computed emotion, uh-huh  
+  
+I blame it on the model broad with the Hollywood smile, aw  
+Stripper booty and a rack like wow  
+Brain like Berkeley, met her at Coachella  
+I went to see Jigga, she went to see Z Trip  
+..
+Perfect  
+  
+I took a seat on the ice-cold lawn  
+She handed me an ice blue bong, whatever  
+She said she wanna be a dentist really badly  
+She's in school paying for tuition doing p*rn in the Valley  
+At least you working, but girl, I can't feel my face  
+What are we smokin' anyway?  
+She said, "Don't let the high go to waste"  
+But can you taste a little taste of  
+  
+Novacane, baby, baby  
+Novacane, baby, I want you  
+f*ck me good, f*ck me long, f*ck me numb  
+Love me now, when I'm gone love me none  
+Love me none, love me none  
+Numb, numb, numb, numb  
+  
+Sink full of dishes, pacing in the kitchen  
+Cocaine for breakfast, yikes  
+Bed full of women  
+Flip on a tripod, little red light on  
+Shooting, I'm feeling like Stanley Kubrick  
+This is some visionary shit  
+Been tryna film pleasure with my eyes wide shut, but it keeps on moving  
+  
+I blame it on the model broad with the Hollywood smile  
+Stripper booty with a rack like wow  
+I'll never forget you  
+You put me on a feeling I never had, never had, never had (never)  
+And ever since I've been tryna get it back  
+You pick it up and put it back  
+Now I'm something like the chemist on campus  
+But there's no drug around  
+Quite like what I found in you, you  
+I still can't feel my face (oh-oh)  
+What am I smokin' anyway? (Ah)  
+She said, "Don't let the high go to waste" (oh-oh)  
+But can you taste a little taste of?  
+  
+Novacane, baby, baby (oh)  
+Novacane, baby, I want you  
+F*ck me good, f*ck me long, f*ck me numb  
+Love me now, when I'm gone, love me none  
+Love me none, love me none  
+Numb, numb, numb, numb  
+Novacane, Novacane, Novacane, Novacane, Novacane (oh, oh, oh)  
+Numb the pain, numb the pain, numb the pain  
+Numb the pain, numb the pain (yeah)  
+Novacane, Novacane, Novacane, Novacane, Novacane (oh, ho)  
+For the pain, for the pain (ooh, huh)  
+Novacane, Novacane  
+  
+Oh-huh, oh-huh, ho-huh  
+Oh-huh, oh-ho, ho-ho-huh  
+Oh-huh, oh-huh, ho-huh  
+Oh-huh, oh-ho, ho-ho-huh  
+  
+Pretty girls involved with me  
+Makin' pretty love to me, pretty, pity, pity  
+All the pretty girls involved with me  
+Makin' pretty love to me, pretty, pity, pity  
+I can't feel a thing  
+I can't feel, can't feel a thing  
+Can't feel a thing, can't feel, feel, feel, feel her  
+I can't feel, feel her  
+Novacane, Novacane, Novacane  
+I can't feel, feel her  
+Novacane for the pain, for the pain  
+I can't, can't feel, feel her, feel her, oh  
+Novacane, Novacane, cane, cane, cane  
+  
+## Takes on the song
+Lagu pertama **Fix You**, feelingnya mellow, haru, sedih, dan harapan. Lagu ini merepresentasikan bagaimana dunia yang kadang kejam membawakan banyaknya kesedihan dibandingkan kebahagiaan, namun dibalik itu
+lagu ini merepresentasikan kepercayaan akan apa yang sudah dilalui bukanlah hal yang sia-sia, melainkan sebuah langkah untuk memperbaiki keadaan dan menjadi yang lebih baik. Lagu ini juga membuktikan
+bahwa sesimpel dan sesederhana ritme, chord, struktur sebuah lagu dapat memberikan dampak yang luar biasa terhadap psikologis seseorang. Sama halnya dengan hidup yang cenderung bervariasi dan terdiri dari
+kejutan akan ups and downs, tekanan yang dihadapi merupakan sebuah chorus dari lagu ini yakni sebuah momen berulang yang selalu kita rasakan namun tidak bisa dihindari. Namun dengan chorus ini, mereka memiliki tujuan
+yakni tujuan sebagai sebuah jembatan menuju sebuah reff atau drop yang akan membuat kita sadar bahwa inilah momennya, inilah saatnya, dan sebuah kemenangan baik itu berupa harapan atau kejelasan akan jawaban, inilah indahnya
+lagu ini.  
+  
+Sedangkan, **Novacane** terdengar jauh berbeda dan memiliki tempo yang lebih cepat. Lagu ini merepresentasikan bagaimana seseorang yang memiliki daya atau kemampuan kreatif akan menguasai dunia. Apapun bentuknya
+sesuatu yang sifatnya simpel seperti instrument dari lagu ini yang hanya bersifat repetitif 1/1 dan bass yang cukup simpel membuktikan bahwa dunia tidak butuh hal yang bersifat kompleks untuk membuktikan sesuatu, melainkan
+daya kreatiflah yang akan menunjukkan jalan yang tidak terduga. Sama layaknya lagu ini yang menjadi fokusnya adalah lyricnya yang sangat terformat dengan baik dan rapih. Uniknya lagi, lagu ini hanya menceritakan sebuah kejadian
+dari artis tersebut yang terjadi di suatu hari dan suatu saat yang mungkin bisa dibilang hanya terjadi 1-2 jam saja, namun dikemas dengan lagu berdurasi 5 menit 2 detik dan akan diingat selamanya.
