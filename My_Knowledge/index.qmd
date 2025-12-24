@@ -1,7 +1,24 @@
 ## UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+## Perspektif Anak IT: Mengoding Masa Depan (Tanpa Error)
+
+Sebagai mahasiswa Informatika, dunia bagi saya seringkali terlihat seperti barisan kode raksasa. Kalau ada masalah, insting pertama saya bukan "kenapa ini terjadi?", tapi "di baris mana *bug*-nya?" dan "apakah sudah coba di-*restart*?".
+
+### 1. Software Engineering untuk Kemanusiaan
+Saya mengerti bahwa di balik aplikasi canggih seperti *FinTech* atau *AgriTech* yang saya bahas sebelumnya, ada ribuan baris kode yang harus efisien.
+- **Algoritma**: Bukan cuma buat ngurutin angka, tapi bisa dipakai buat optimasi distribusi bantuan logistik biar nggak nyasar.
+- **Database**: Tempat nyimpen data penduduk miskin yang harus aman, jangan sampai bocor (apalagi dijual di *dark web*).
+- **UX Design**: Bikin aplikasi buat petani di desa itu beda sama bikin buat anak kota. Tombolnya harus jelas, nggak perlu animasi *fancy* yang bikin HP kentang nge-*lag*.
+
+### 2. Realita vs Ekspektasi (Edisi IT)
+Orang sering mikir anak IT itu bisa benerin segalanya, termasuk kulkas tetangga.
+- **Ekspektasi Orang**: "Wah, kamu bisa bikin sistem AI canggih buat memprediksi panen raya?"
+- **Realita Saya**: "Bisa sih teorinya, tapi *center div* di CSS aja kadang masih bikin nangis."
+
+Tapi serius, pemahaman tentang *Software Development Life Cycle (SDLC)* mengajarkan saya bahwa solusi itu nggak bisa langsung jadi. Ada fase *Requirement*, *Design*, *Testing*, dan *Maintenance*. Mengatasi kemiskinan juga gitu, nggak bisa sekali *deploy* langsung kelar. Butuh *maintenance* dan *update* terus-menerus (*patching bugs* kemiskinan).
+
+### 3. Harapan Saya
+Saya ingin menggunakan *skill* coding saya bukan cuma buat bikin *Hello World* atau kalkulator sederhana. Saya ingin berkontribusi membangun sistem yang *scalable* dan *reliable* untuk memecahkan masalah sosial.
+Karena pada akhirnya, teknologi itu cuma alat. *Programmer*-nya lah yang menentukan apakah alat itu bakal jadi solusi atau malah nambahin *technical debt* buat generasi selanjutnya.
+
+> *"Hidup itu kayak coding. Kalau banyak error, jangan panik. Cek log-nya, minum kopi ☕, dan coba lagi. Kalau masih error, ya mbok tanya mbah AI."*

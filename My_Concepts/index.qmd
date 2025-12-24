@@ -1,6 +1,47 @@
 # UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
 
-Apa itu berkonsep? 
+## Kemiskinan Global
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+### Definisi
+Kemiskinan global adalah kondisi di mana sebagian besar penduduk dunia hidup di bawah standar kelayakan hidup minimum, tidak mampu memenuhi kebutuhan dasar seperti pangan, sandang, papan, pendidikan, dan kesehatan.
+
+### Poin-Poin Utama Kemiskinan Global
+
+#### 1. Fakta dan Statistik
+- Lebih dari **700 juta orang** di dunia hidup dalam kemiskinan ekstrem (di bawah $2.15/hari)
+- Mayoritas penduduk miskin berada di wilayah **Sub-Sahara Afrika** dan **Asia Selatan**
+- Pandemi COVID-19 menyebabkan peningkatan kemiskinan global secara signifikan
+
+#### 2. Penyebab Utama Kemiskinan Global
+- **Ketimpangan ekonomi** – distribusi kekayaan yang tidak merata antar negara dan individu
+- **Konflik dan perang** – menghancurkan infrastruktur dan ekonomi lokal
+- **Perubahan iklim** – bencana alam yang menghancurkan mata pencaharian
+- **Kurangnya akses pendidikan** – siklus kemiskinan yang terus berulang
+- **Korupsi dan tata kelola buruk** – menghambat pembangunan dan bantuan sosial
+- **Diskriminasi gender** – perempuan dan anak perempuan lebih rentan terhadap kemiskinan
+
+#### 3. Dampak Kemiskinan Global
+- **Kelaparan dan malnutrisi** – jutaan anak mengalami stunting
+- **Akses kesehatan terbatas** – tingginya angka kematian ibu dan bayi
+- **Rendahnya tingkat pendidikan** – anak-anak terpaksa bekerja, bukan sekolah
+- **Ketidakstabilan sosial** – meningkatnya kriminalitas dan konflik
+- **Migrasi massal** – pencarian kehidupan lebih baik di negara lain
+
+#### 4. Upaya Mengatasi Kemiskinan Global
+- **SDGs (Sustainable Development Goals)** – Goal 1: No Poverty
+- **Bantuan kemanusiaan internasional** – dari PBB, World Bank, dan NGO
+- **Pemberdayaan ekonomi lokal** – microfinance dan pelatihan keterampilan
+- **Investasi dalam pendidikan** – memutus siklus kemiskinan
+- **Pembangunan infrastruktur** – akses air bersih, listrik, dan internet
+- **Kebijakan redistribusi** – pajak progresif dan jaring pengaman sosial
+
+#### 5. Peran Individu dalam Mengatasi Kemiskinan
+- Mendukung organisasi kemanusiaan
+- Menjadi konsumen yang bertanggung jawab (fair trade)
+- Meningkatkan kesadaran melalui edukasi dan advokasi
+- Berkontribusi melalui volunteer atau donasi
+
+### Refleksi
+> *"Kemiskinan bukanlah nasib, melainkan hasil dari sistem yang dapat kita ubah bersama."*
+
+Mengatasi kemiskinan global membutuhkan **kolaborasi antarbangsa**, **kebijakan yang adil**, dan **komitmen dari setiap individu** untuk menciptakan dunia yang lebih setara.
